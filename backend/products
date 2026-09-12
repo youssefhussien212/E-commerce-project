@@ -1,0 +1,2119 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "productTitle": "jacket",
+        "productPrice": 49.99,
+        "productDescription": "Big jacket for men.",
+        "productRating": 5,
+        "productCategory": "men",
+        "createdAt": "2024-04-29T19:09:14.670Z",
+        "updatedAt": "2024-06-02T14:53:52.279Z",
+        "publishedAt": "2024-04-29T19:09:16.689Z",
+        "ageCategory": "Adult",
+        "productID": "2",
+        "productimg": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "name": "final.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 623,
+                "height": 642,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_final.png",
+                    "hash": "thumbnail_final_9c25958fa6",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 151,
+                    "height": 156,
+                    "size": 25.06,
+                    "sizeInBytes": 25060,
+                    "url": "/uploads/thumbnail_final_9c25958fa6.png"
+                  },
+                  "small": {
+                    "name": "small_final.png",
+                    "hash": "small_final_9c25958fa6",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 485,
+                    "height": 500,
+                    "size": 222.39,
+                    "sizeInBytes": 222386,
+                    "url": "/uploads/small_final_9c25958fa6.png"
+                  }
+                },
+                "hash": "final_9c25958fa6",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 86.63,
+                "url": "/uploads/final_9c25958fa6.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-04-29T19:07:46.348Z",
+                "updatedAt": "2024-04-29T19:07:46.348Z"
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "name": "images.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 899,
+                "height": 921,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_images.jpg",
+                    "hash": "thumbnail_images_a06c84f80d",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 152,
+                    "height": 156,
+                    "size": 3.77,
+                    "sizeInBytes": 3767,
+                    "url": "/uploads/thumbnail_images_a06c84f80d.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_images.jpg",
+                    "hash": "medium_images_a06c84f80d",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 732,
+                    "height": 750,
+                    "size": 55.51,
+                    "sizeInBytes": 55509,
+                    "url": "/uploads/medium_images_a06c84f80d.jpg"
+                  },
+                  "small": {
+                    "name": "small_images.jpg",
+                    "hash": "small_images_a06c84f80d",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 488,
+                    "height": 500,
+                    "size": 25.85,
+                    "sizeInBytes": 25845,
+                    "url": "/uploads/small_images_a06c84f80d.jpg"
+                  }
+                },
+                "hash": "images_a06c84f80d",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 84.68,
+                "url": "/uploads/images_a06c84f80d.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-04-29T19:07:46.500Z",
+                "updatedAt": "2024-04-29T19:07:46.500Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "productTitle": "Ring",
+        "productPrice": 100,
+        "productDescription": "golden ring.",
+        "productRating": 5,
+        "productCategory": "women",
+        "createdAt": "2024-05-01T20:17:55.386Z",
+        "updatedAt": "2024-06-02T14:32:33.449Z",
+        "publishedAt": "2024-05-01T20:17:56.416Z",
+        "ageCategory": "Adult",
+        "productID": "4",
+        "productimg": {
+          "data": [
+            {
+              "id": 4,
+              "attributes": {
+                "name": "1.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 3597,
+                "height": 3705,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1.jpg",
+                    "hash": "thumbnail_1_1766813baa",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 151,
+                    "height": 156,
+                    "size": 3.59,
+                    "sizeInBytes": 3586,
+                    "url": "/uploads/thumbnail_1_1766813baa.jpg"
+                  },
+                  "large": {
+                    "name": "large_1.jpg",
+                    "hash": "large_1_1766813baa",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 971,
+                    "height": 1000,
+                    "size": 71.28,
+                    "sizeInBytes": 71283,
+                    "url": "/uploads/large_1_1766813baa.jpg"
+                  },
+                  "small": {
+                    "name": "small_1.jpg",
+                    "hash": "small_1_1766813baa",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 485,
+                    "height": 500,
+                    "size": 21.68,
+                    "sizeInBytes": 21683,
+                    "url": "/uploads/small_1_1766813baa.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_1.jpg",
+                    "hash": "medium_1_1766813baa",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 728,
+                    "height": 750,
+                    "size": 43.41,
+                    "sizeInBytes": 43407,
+                    "url": "/uploads/medium_1_1766813baa.jpg"
+                  }
+                },
+                "hash": "1_1766813baa",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 572.23,
+                "url": "/uploads/1_1766813baa.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-05-01T20:16:38.675Z",
+                "updatedAt": "2024-05-01T20:16:38.675Z"
+              }
+            },
+            {
+              "id": 3,
+              "attributes": {
+                "name": "2.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 3484,
+                "height": 3484,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_2.jpg",
+                    "hash": "thumbnail_2_648e89cab4",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.51,
+                    "sizeInBytes": 3511,
+                    "url": "/uploads/thumbnail_2_648e89cab4.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_2.jpg",
+                    "hash": "medium_2_648e89cab4",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 750,
+                    "size": 38.47,
+                    "sizeInBytes": 38474,
+                    "url": "/uploads/medium_2_648e89cab4.jpg"
+                  },
+                  "small": {
+                    "name": "small_2.jpg",
+                    "hash": "small_2_648e89cab4",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 19.32,
+                    "sizeInBytes": 19323,
+                    "url": "/uploads/small_2_648e89cab4.jpg"
+                  },
+                  "large": {
+                    "name": "large_2.jpg",
+                    "hash": "large_2_648e89cab4",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 1000,
+                    "height": 1000,
+                    "size": 64.53,
+                    "sizeInBytes": 64529,
+                    "url": "/uploads/large_2_648e89cab4.jpg"
+                  }
+                },
+                "hash": "2_648e89cab4",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 330.52,
+                "url": "/uploads/2_648e89cab4.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-05-01T20:16:38.648Z",
+                "updatedAt": "2024-05-01T20:16:38.648Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "productTitle": "Blue dress",
+        "productPrice": 89.99,
+        "productDescription": "Light blue dress for women.",
+        "productRating": 4.5,
+        "productCategory": "women",
+        "createdAt": "2024-06-02T14:14:26.674Z",
+        "updatedAt": "2024-06-02T14:32:44.854Z",
+        "publishedAt": "2024-06-02T14:14:40.868Z",
+        "ageCategory": "YoungAdult",
+        "productID": "3",
+        "productimg": {
+          "data": [
+            {
+              "id": 5,
+              "attributes": {
+                "name": "1 (16).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 500,
+                "height": 500,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1 (16).jpg",
+                    "hash": "thumbnail_1_16_46dcdae0e4",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.76,
+                    "sizeInBytes": 3758,
+                    "url": "/uploads/thumbnail_1_16_46dcdae0e4.jpg"
+                  }
+                },
+                "hash": "1_16_46dcdae0e4",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 24.55,
+                "url": "/uploads/1_16_46dcdae0e4.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T13:47:33.396Z",
+                "updatedAt": "2024-06-02T13:47:33.396Z"
+              }
+            },
+            {
+              "id": 6,
+              "attributes": {
+                "name": "2 (4).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_2 (4).jpg",
+                    "hash": "thumbnail_2_4_f73bb1f464",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.97,
+                    "sizeInBytes": 3967,
+                    "url": "/uploads/thumbnail_2_4_f73bb1f464.jpg"
+                  },
+                  "small": {
+                    "name": "small_2 (4).jpg",
+                    "hash": "small_2_4_f73bb1f464",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 25.66,
+                    "sizeInBytes": 25658,
+                    "url": "/uploads/small_2_4_f73bb1f464.jpg"
+                  }
+                },
+                "hash": "2_4_f73bb1f464",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 42.64,
+                "url": "/uploads/2_4_f73bb1f464.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T13:47:46.354Z",
+                "updatedAt": "2024-06-02T13:47:46.354Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "productTitle": "Grey Dress",
+        "productPrice": 79.99,
+        "productDescription": "Grey short dress.",
+        "productRating": 3,
+        "productCategory": "women",
+        "createdAt": "2024-06-02T14:30:22.751Z",
+        "updatedAt": "2024-06-02T19:05:25.359Z",
+        "publishedAt": "2024-06-02T14:30:25.358Z",
+        "ageCategory": "YoungAdult",
+        "productID": "7",
+        "productimg": {
+          "data": [
+            {
+              "id": 9,
+              "attributes": {
+                "name": "2 (6).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_2 (6).jpg",
+                    "hash": "thumbnail_2_6_a2f30d117a",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 2.53,
+                    "sizeInBytes": 2530,
+                    "url": "/uploads/thumbnail_2_6_a2f30d117a.jpg"
+                  },
+                  "small": {
+                    "name": "small_2 (6).jpg",
+                    "hash": "small_2_6_a2f30d117a",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 20.44,
+                    "sizeInBytes": 20438,
+                    "url": "/uploads/small_2_6_a2f30d117a.jpg"
+                  }
+                },
+                "hash": "2_6_a2f30d117a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 36.24,
+                "url": "/uploads/2_6_a2f30d117a.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:29:20.793Z",
+                "updatedAt": "2024-06-02T14:29:20.793Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "productTitle": "Blue Bag",
+        "productPrice": 39.99,
+        "productDescription": "Small blue bag.",
+        "productRating": 3,
+        "productCategory": "women",
+        "createdAt": "2024-06-02T14:37:44.829Z",
+        "updatedAt": "2024-06-02T14:57:47.298Z",
+        "publishedAt": "2024-06-02T14:37:47.759Z",
+        "ageCategory": "YoungAdult",
+        "productID": "8",
+        "productimg": {
+          "data": [
+            {
+              "id": 10,
+              "attributes": {
+                "name": "2 (10).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 500,
+                "height": 500,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_2 (10).jpg",
+                    "hash": "thumbnail_2_10_dafff798f9",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 4.5,
+                    "sizeInBytes": 4502,
+                    "url": "/uploads/thumbnail_2_10_dafff798f9.jpg"
+                  }
+                },
+                "hash": "2_10_dafff798f9",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 32.22,
+                "url": "/uploads/2_10_dafff798f9.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:36:13.639Z",
+                "updatedAt": "2024-06-02T14:36:13.639Z"
+              }
+            },
+            {
+              "id": 20,
+              "attributes": {
+                "name": "8.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 800,
+                "height": 603,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_8.jpg",
+                    "hash": "thumbnail_8_30c8b4dad1",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 207,
+                    "height": 156,
+                    "size": 5.2,
+                    "sizeInBytes": 5202,
+                    "url": "/uploads/thumbnail_8_30c8b4dad1.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_8.jpg",
+                    "hash": "medium_8_30c8b4dad1",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 565,
+                    "size": 42.07,
+                    "sizeInBytes": 42073,
+                    "url": "/uploads/medium_8_30c8b4dad1.jpg"
+                  },
+                  "small": {
+                    "name": "small_8.jpg",
+                    "hash": "small_8_30c8b4dad1",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 377,
+                    "size": 20.18,
+                    "sizeInBytes": 20175,
+                    "url": "/uploads/small_8_30c8b4dad1.jpg"
+                  }
+                },
+                "hash": "8_30c8b4dad1",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 50.21,
+                "url": "/uploads/8_30c8b4dad1.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:56:33.124Z",
+                "updatedAt": "2024-06-02T14:56:33.124Z"
+              }
+            },
+            {
+              "id": 21,
+              "attributes": {
+                "name": "7.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 800,
+                "height": 634,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_7.jpg",
+                    "hash": "thumbnail_7_152a02a29a",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 197,
+                    "height": 156,
+                    "size": 4.88,
+                    "sizeInBytes": 4877,
+                    "url": "/uploads/thumbnail_7_152a02a29a.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_7.jpg",
+                    "hash": "medium_7_152a02a29a",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 594,
+                    "size": 47.79,
+                    "sizeInBytes": 47793,
+                    "url": "/uploads/medium_7_152a02a29a.jpg"
+                  },
+                  "small": {
+                    "name": "small_7.jpg",
+                    "hash": "small_7_152a02a29a",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 396,
+                    "size": 21.09,
+                    "sizeInBytes": 21085,
+                    "url": "/uploads/small_7_152a02a29a.jpg"
+                  }
+                },
+                "hash": "7_152a02a29a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 57.51,
+                "url": "/uploads/7_152a02a29a.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:56:33.136Z",
+                "updatedAt": "2024-06-02T14:56:33.136Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "productTitle": "Purple Dress",
+        "productPrice": 80,
+        "productDescription": "Purple short Dress.",
+        "productRating": 3,
+        "productCategory": "women",
+        "createdAt": "2024-06-02T14:40:43.624Z",
+        "updatedAt": "2024-06-02T14:53:28.699Z",
+        "publishedAt": "2024-06-02T14:40:49.587Z",
+        "ageCategory": "YoungAdult",
+        "productID": "9",
+        "productimg": {
+          "data": [
+            {
+              "id": 11,
+              "attributes": {
+                "name": "3 (3).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_3 (3).jpg",
+                    "hash": "thumbnail_3_3_bb75796d4f",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 2.98,
+                    "sizeInBytes": 2982,
+                    "url": "/uploads/thumbnail_3_3_bb75796d4f.jpg"
+                  },
+                  "small": {
+                    "name": "small_3 (3).jpg",
+                    "hash": "small_3_3_bb75796d4f",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 21.25,
+                    "sizeInBytes": 21247,
+                    "url": "/uploads/small_3_3_bb75796d4f.jpg"
+                  }
+                },
+                "hash": "3_3_bb75796d4f",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 35.7,
+                "url": "/uploads/3_3_bb75796d4f.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:39:44.664Z",
+                "updatedAt": "2024-06-02T14:39:44.664Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "productTitle": "Heavy Short",
+        "productPrice": 39.99,
+        "productDescription": "A heavy short for men.",
+        "productRating": 4.5,
+        "productCategory": "men",
+        "createdAt": "2024-06-02T14:46:08.511Z",
+        "updatedAt": "2024-06-02T14:46:09.618Z",
+        "publishedAt": "2024-06-02T14:46:09.615Z",
+        "ageCategory": "YoungAdult",
+        "productID": "10",
+        "productimg": {
+          "data": [
+            {
+              "id": 14,
+              "attributes": {
+                "name": "240_F_46009646_KSwbFpOetbWvdTHlDW81hGWzO3LD0JiB.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 218,
+                "height": 240,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_240_F_46009646_KSwbFpOetbWvdTHlDW81hGWzO3LD0JiB.jpg",
+                    "hash": "thumbnail_240_F_46009646_K_Swb_Fp_Oetb_Wvd_T_Hl_DW_81h_G_Wz_O3_LD_0_Ji_B_0533bf73a4",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 142,
+                    "height": 156,
+                    "size": 4.36,
+                    "sizeInBytes": 4356,
+                    "url": "/uploads/thumbnail_240_F_46009646_K_Swb_Fp_Oetb_Wvd_T_Hl_DW_81h_G_Wz_O3_LD_0_Ji_B_0533bf73a4.jpg"
+                  }
+                },
+                "hash": "240_F_46009646_K_Swb_Fp_Oetb_Wvd_T_Hl_DW_81h_G_Wz_O3_LD_0_Ji_B_0533bf73a4",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 8.91,
+                "url": "/uploads/240_F_46009646_K_Swb_Fp_Oetb_Wvd_T_Hl_DW_81h_G_Wz_O3_LD_0_Ji_B_0533bf73a4.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:43:40.542Z",
+                "updatedAt": "2024-06-02T14:43:40.542Z"
+              }
+            },
+            {
+              "id": 15,
+              "attributes": {
+                "name": "240_F_262609514_YlYU6KSaHhzy7KOujAdJxfKzV99Bmh2A.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 360,
+                "height": 240,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_240_F_262609514_YlYU6KSaHhzy7KOujAdJxfKzV99Bmh2A.jpg",
+                    "hash": "thumbnail_240_F_262609514_Yl_YU_6_K_Sa_Hhzy7_K_Ouj_Ad_Jxf_Kz_V99_Bmh2_A_35a647fd05",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 234,
+                    "height": 156,
+                    "size": 5.72,
+                    "sizeInBytes": 5718,
+                    "url": "/uploads/thumbnail_240_F_262609514_Yl_YU_6_K_Sa_Hhzy7_K_Ouj_Ad_Jxf_Kz_V99_Bmh2_A_35a647fd05.jpg"
+                  }
+                },
+                "hash": "240_F_262609514_Yl_YU_6_K_Sa_Hhzy7_K_Ouj_Ad_Jxf_Kz_V99_Bmh2_A_35a647fd05",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 12.34,
+                "url": "/uploads/240_F_262609514_Yl_YU_6_K_Sa_Hhzy7_K_Ouj_Ad_Jxf_Kz_V99_Bmh2_A_35a647fd05.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:43:40.554Z",
+                "updatedAt": "2024-06-02T14:43:40.554Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "productTitle": "Black Dress",
+        "productPrice": 149.99,
+        "productDescription": "A long black dress.",
+        "productRating": 4.5,
+        "productCategory": "women",
+        "createdAt": "2024-06-02T14:48:28.027Z",
+        "updatedAt": "2024-06-02T14:53:18.976Z",
+        "publishedAt": "2024-06-02T14:48:29.237Z",
+        "ageCategory": "YoungAdult",
+        "productID": "11",
+        "productimg": {
+          "data": [
+            {
+              "id": 16,
+              "attributes": {
+                "name": "240_F_52194577_cGX9OAbgn6o9aeQ620EEOM1rAF81nSpF.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 172,
+                "height": 240,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_240_F_52194577_cGX9OAbgn6o9aeQ620EEOM1rAF81nSpF.jpg",
+                    "hash": "thumbnail_240_F_52194577_c_GX_9_O_Abgn6o9ae_Q620_EEOM_1r_AF_81n_Sp_F_3efd5a9d56",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 112,
+                    "height": 156,
+                    "size": 2.65,
+                    "sizeInBytes": 2654,
+                    "url": "/uploads/thumbnail_240_F_52194577_c_GX_9_O_Abgn6o9ae_Q620_EEOM_1r_AF_81n_Sp_F_3efd5a9d56.jpg"
+                  }
+                },
+                "hash": "240_F_52194577_c_GX_9_O_Abgn6o9ae_Q620_EEOM_1r_AF_81n_Sp_F_3efd5a9d56",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 4.7,
+                "url": "/uploads/240_F_52194577_c_GX_9_O_Abgn6o9ae_Q620_EEOM_1r_AF_81n_Sp_F_3efd5a9d56.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:47:35.261Z",
+                "updatedAt": "2024-06-02T14:47:35.261Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "productTitle": "Basic T-shirt",
+        "productPrice": 39.99,
+        "productDescription": "White basic T-shirt.",
+        "productRating": 3.5,
+        "productCategory": "men",
+        "createdAt": "2024-06-02T14:49:44.028Z",
+        "updatedAt": "2024-06-02T14:49:44.822Z",
+        "publishedAt": "2024-06-02T14:49:44.814Z",
+        "ageCategory": "YoungAdult",
+        "productID": "12",
+        "productimg": {
+          "data": [
+            {
+              "id": 17,
+              "attributes": {
+                "name": "240_F_57543948_jGkh0wePtXXxpU163P1iiuIEZn81SzS2.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 253,
+                "height": 240,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_240_F_57543948_jGkh0wePtXXxpU163P1iiuIEZn81SzS2.jpg",
+                    "hash": "thumbnail_240_F_57543948_j_Gkh0we_Pt_X_Xxp_U163_P1iiu_IE_Zn81_Sz_S2_97ef4a4266",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 164,
+                    "height": 156,
+                    "size": 2.05,
+                    "sizeInBytes": 2052,
+                    "url": "/uploads/thumbnail_240_F_57543948_j_Gkh0we_Pt_X_Xxp_U163_P1iiu_IE_Zn81_Sz_S2_97ef4a4266.jpg"
+                  }
+                },
+                "hash": "240_F_57543948_j_Gkh0we_Pt_X_Xxp_U163_P1iiu_IE_Zn81_Sz_S2_97ef4a4266",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 3.63,
+                "url": "/uploads/240_F_57543948_j_Gkh0we_Pt_X_Xxp_U163_P1iiu_IE_Zn81_Sz_S2_97ef4a4266.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:48:49.758Z",
+                "updatedAt": "2024-06-02T14:48:49.758Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "productTitle": "Heavy Pants",
+        "productPrice": 79.99,
+        "productDescription": "Heavy brown Pants.",
+        "productRating": 4.5,
+        "productCategory": "women",
+        "createdAt": "2024-06-02T14:52:09.735Z",
+        "updatedAt": "2024-06-02T14:52:10.935Z",
+        "publishedAt": "2024-06-02T14:52:10.932Z",
+        "ageCategory": "YoungAdult",
+        "productID": "13",
+        "productimg": {
+          "data": [
+            {
+              "id": 18,
+              "attributes": {
+                "name": "240_F_87785153_MhF2bTsMT62K8B3D95Ie7qR3cGESZJRm.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 168,
+                "height": 240,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_240_F_87785153_MhF2bTsMT62K8B3D95Ie7qR3cGESZJRm.jpg",
+                    "hash": "thumbnail_240_F_87785153_Mh_F2b_Ts_MT_62_K8_B3_D95_Ie7q_R3c_GESZJ_Rm_30a9e12970",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 109,
+                    "height": 156,
+                    "size": 2.67,
+                    "sizeInBytes": 2673,
+                    "url": "/uploads/thumbnail_240_F_87785153_Mh_F2b_Ts_MT_62_K8_B3_D95_Ie7q_R3c_GESZJ_Rm_30a9e12970.jpg"
+                  }
+                },
+                "hash": "240_F_87785153_Mh_F2b_Ts_MT_62_K8_B3_D95_Ie7q_R3c_GESZJ_Rm_30a9e12970",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 4.88,
+                "url": "/uploads/240_F_87785153_Mh_F2b_Ts_MT_62_K8_B3_D95_Ie7q_R3c_GESZJ_Rm_30a9e12970.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:50:35.057Z",
+                "updatedAt": "2024-06-02T14:50:35.057Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "productTitle": "Black T-shirt",
+        "productPrice": 20,
+        "productDescription": "It is what it is (black T-shirt).",
+        "productRating": 2.5,
+        "productCategory": "men",
+        "createdAt": "2024-06-02T14:55:38.991Z",
+        "updatedAt": "2024-06-02T14:55:41.325Z",
+        "publishedAt": "2024-06-02T14:55:41.322Z",
+        "ageCategory": "YoungAdult",
+        "productID": "14",
+        "productimg": {
+          "data": [
+            {
+              "id": 19,
+              "attributes": {
+                "name": "1 (20).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1476,
+                "height": 1500,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1 (20).jpg",
+                    "hash": "thumbnail_1_20_6651a9cfe6",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 153,
+                    "height": 156,
+                    "size": 3.09,
+                    "sizeInBytes": 3090,
+                    "url": "/uploads/thumbnail_1_20_6651a9cfe6.jpg"
+                  },
+                  "small": {
+                    "name": "small_1 (20).jpg",
+                    "hash": "small_1_20_6651a9cfe6",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 492,
+                    "height": 500,
+                    "size": 14.96,
+                    "sizeInBytes": 14960,
+                    "url": "/uploads/small_1_20_6651a9cfe6.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_1 (20).jpg",
+                    "hash": "medium_1_20_6651a9cfe6",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 738,
+                    "height": 750,
+                    "size": 26.31,
+                    "sizeInBytes": 26308,
+                    "url": "/uploads/medium_1_20_6651a9cfe6.jpg"
+                  },
+                  "large": {
+                    "name": "large_1 (20).jpg",
+                    "hash": "large_1_20_6651a9cfe6",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 984,
+                    "height": 1000,
+                    "size": 38.96,
+                    "sizeInBytes": 38955,
+                    "url": "/uploads/large_1_20_6651a9cfe6.jpg"
+                  }
+                },
+                "hash": "1_20_6651a9cfe6",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 53.48,
+                "url": "/uploads/1_20_6651a9cfe6.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:54:19.526Z",
+                "updatedAt": "2024-06-02T14:54:19.526Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "productTitle": "White T-shirt",
+        "productPrice": 29.99,
+        "productDescription": "White and black T-shirt.",
+        "productRating": 3,
+        "productCategory": "men",
+        "createdAt": "2024-06-02T14:59:34.031Z",
+        "updatedAt": "2024-06-02T14:59:35.542Z",
+        "publishedAt": "2024-06-02T14:59:35.533Z",
+        "ageCategory": "YoungAdult",
+        "productID": "15",
+        "productimg": {
+          "data": [
+            {
+              "id": 22,
+              "attributes": {
+                "name": "240_F_151383460_XvABpgGuf6NXu0ccMScJJd2dPZVEQkXn.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 361,
+                "height": 240,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_240_F_151383460_XvABpgGuf6NXu0ccMScJJd2dPZVEQkXn.jpg",
+                    "hash": "thumbnail_240_F_151383460_Xv_A_Bpg_Guf6_N_Xu0cc_M_Sc_J_Jd2d_PZVE_Qk_Xn_fcdd116afe",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 235,
+                    "height": 156,
+                    "size": 2.43,
+                    "sizeInBytes": 2432,
+                    "url": "/uploads/thumbnail_240_F_151383460_Xv_A_Bpg_Guf6_N_Xu0cc_M_Sc_J_Jd2d_PZVE_Qk_Xn_fcdd116afe.jpg"
+                  }
+                },
+                "hash": "240_F_151383460_Xv_A_Bpg_Guf6_N_Xu0cc_M_Sc_J_Jd2d_PZVE_Qk_Xn_fcdd116afe",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 4.43,
+                "url": "/uploads/240_F_151383460_Xv_A_Bpg_Guf6_N_Xu0cc_M_Sc_J_Jd2d_PZVE_Qk_Xn_fcdd116afe.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:58:25.388Z",
+                "updatedAt": "2024-06-02T14:58:25.388Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "productTitle": "Yellow Jacket.",
+        "productPrice": 149.99,
+        "productDescription": "Yellow blazer jacket for women.",
+        "productRating": 4.5,
+        "productCategory": "women",
+        "createdAt": "2024-06-02T15:01:21.496Z",
+        "updatedAt": "2024-06-02T15:01:25.411Z",
+        "publishedAt": "2024-06-02T15:01:25.408Z",
+        "ageCategory": "YoungAdult",
+        "productID": "16",
+        "productimg": {
+          "data": [
+            {
+              "id": 23,
+              "attributes": {
+                "name": "240_F_181178994_LmerKNMDqoQcSZNhL1eTTnDJkcTRb4sn.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 192,
+                "height": 240,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_240_F_181178994_LmerKNMDqoQcSZNhL1eTTnDJkcTRb4sn.jpg",
+                    "hash": "thumbnail_240_F_181178994_Lmer_KNM_Dqo_Qc_SZ_Nh_L1e_T_Tn_D_Jkc_T_Rb4sn_432e01a328",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 125,
+                    "height": 156,
+                    "size": 3.81,
+                    "sizeInBytes": 3812,
+                    "url": "/uploads/thumbnail_240_F_181178994_Lmer_KNM_Dqo_Qc_SZ_Nh_L1e_T_Tn_D_Jkc_T_Rb4sn_432e01a328.jpg"
+                  }
+                },
+                "hash": "240_F_181178994_Lmer_KNM_Dqo_Qc_SZ_Nh_L1e_T_Tn_D_Jkc_T_Rb4sn_432e01a328",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 7.36,
+                "url": "/uploads/240_F_181178994_Lmer_KNM_Dqo_Qc_SZ_Nh_L1e_T_Tn_D_Jkc_T_Rb4sn_432e01a328.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T14:59:51.852Z",
+                "updatedAt": "2024-06-02T14:59:51.852Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "productTitle": "Basic T-shirt",
+        "productPrice": 20,
+        "productDescription": "Baby blue T-shirt.",
+        "productRating": 2.5,
+        "productCategory": "men",
+        "createdAt": "2024-06-02T15:03:11.344Z",
+        "updatedAt": "2024-06-02T15:03:14.201Z",
+        "publishedAt": "2024-06-02T15:03:14.195Z",
+        "ageCategory": "YoungAdult",
+        "productID": "16",
+        "productimg": {
+          "data": [
+            {
+              "id": 24,
+              "attributes": {
+                "name": "240_F_191424304_I5mJHxABRt3aKIM0dbDhV8GebK7fQvhZ.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 360,
+                "height": 240,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_240_F_191424304_I5mJHxABRt3aKIM0dbDhV8GebK7fQvhZ.jpg",
+                    "hash": "thumbnail_240_F_191424304_I5m_J_Hx_AB_Rt3a_KIM_0db_Dh_V8_Geb_K7f_Qvh_Z_b54bb1730e",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 234,
+                    "height": 156,
+                    "size": 3.64,
+                    "sizeInBytes": 3639,
+                    "url": "/uploads/thumbnail_240_F_191424304_I5m_J_Hx_AB_Rt3a_KIM_0db_Dh_V8_Geb_K7f_Qvh_Z_b54bb1730e.jpg"
+                  }
+                },
+                "hash": "240_F_191424304_I5m_J_Hx_AB_Rt3a_KIM_0db_Dh_V8_Geb_K7f_Qvh_Z_b54bb1730e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 6.77,
+                "url": "/uploads/240_F_191424304_I5m_J_Hx_AB_Rt3a_KIM_0db_Dh_V8_Geb_K7f_Qvh_Z_b54bb1730e.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T15:01:59.235Z",
+                "updatedAt": "2024-06-02T15:01:59.235Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "productTitle": "Blouse ",
+        "productPrice": 39.99,
+        "productDescription": "Blouse for women.",
+        "productRating": 3.5,
+        "productCategory": "women",
+        "createdAt": "2024-06-02T15:09:18.743Z",
+        "updatedAt": "2024-06-02T15:09:19.997Z",
+        "publishedAt": "2024-06-02T15:09:19.991Z",
+        "ageCategory": "YoungAdult",
+        "productID": "18",
+        "productimg": {
+          "data": [
+            {
+              "id": 26,
+              "attributes": {
+                "name": "240_F_228812377_1IxkPHK9XbEayW1H35PBziR64BTExq3p.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 360,
+                "height": 240,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_240_F_228812377_1IxkPHK9XbEayW1H35PBziR64BTExq3p.jpg",
+                    "hash": "thumbnail_240_F_228812377_1_Ixk_PHK_9_Xb_Eay_W1_H35_P_Bzi_R64_BT_Exq3p_0c2a762f51",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 234,
+                    "height": 156,
+                    "size": 3.63,
+                    "sizeInBytes": 3630,
+                    "url": "/uploads/thumbnail_240_F_228812377_1_Ixk_PHK_9_Xb_Eay_W1_H35_P_Bzi_R64_BT_Exq3p_0c2a762f51.jpg"
+                  }
+                },
+                "hash": "240_F_228812377_1_Ixk_PHK_9_Xb_Eay_W1_H35_P_Bzi_R64_BT_Exq3p_0c2a762f51",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 6.93,
+                "url": "/uploads/240_F_228812377_1_Ixk_PHK_9_Xb_Eay_W1_H35_P_Bzi_R64_BT_Exq3p_0c2a762f51.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T15:06:54.320Z",
+                "updatedAt": "2024-06-02T15:06:54.320Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 21,
+      "attributes": {
+        "productTitle": "Watch",
+        "productPrice": 199.99,
+        "productDescription": "Brown Watch for men.",
+        "productRating": 4.5,
+        "productCategory": "men",
+        "createdAt": "2024-06-02T15:12:33.133Z",
+        "updatedAt": "2024-06-02T15:13:02.228Z",
+        "publishedAt": "2024-06-02T15:13:02.225Z",
+        "ageCategory": "Adult",
+        "productID": "19",
+        "productimg": {
+          "data": [
+            {
+              "id": 27,
+              "attributes": {
+                "name": "1 (3).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1 (3).jpg",
+                    "hash": "thumbnail_1_3_30a99a3350",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 5.07,
+                    "sizeInBytes": 5069,
+                    "url": "/uploads/thumbnail_1_3_30a99a3350.jpg"
+                  },
+                  "small": {
+                    "name": "small_1 (3).jpg",
+                    "hash": "small_1_3_30a99a3350",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 33.17,
+                    "sizeInBytes": 33169,
+                    "url": "/uploads/small_1_3_30a99a3350.jpg"
+                  }
+                },
+                "hash": "1_3_30a99a3350",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 54.07,
+                "url": "/uploads/1_3_30a99a3350.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-02T15:11:30.747Z",
+                "updatedAt": "2024-06-02T15:11:30.747Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 22,
+      "attributes": {
+        "productTitle": "Jacket",
+        "productPrice": 170,
+        "productDescription": "Puffer jacket for men.",
+        "productRating": 4.5,
+        "productCategory": "men",
+        "createdAt": "2024-06-03T15:58:41.732Z",
+        "updatedAt": "2024-06-03T17:09:42.335Z",
+        "publishedAt": "2024-06-03T15:58:52.467Z",
+        "ageCategory": "Adult",
+        "productID": "20",
+        "productimg": {
+          "data": [
+            {
+              "id": 28,
+              "attributes": {
+                "name": "1 (5).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1 (5).jpg",
+                    "hash": "thumbnail_1_5_9d220909ca",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.33,
+                    "sizeInBytes": 3332,
+                    "url": "/uploads/thumbnail_1_5_9d220909ca.jpg"
+                  },
+                  "small": {
+                    "name": "small_1 (5).jpg",
+                    "hash": "small_1_5_9d220909ca",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 18.78,
+                    "sizeInBytes": 18779,
+                    "url": "/uploads/small_1_5_9d220909ca.jpg"
+                  }
+                },
+                "hash": "1_5_9d220909ca",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 30.49,
+                "url": "/uploads/1_5_9d220909ca.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T15:54:09.911Z",
+                "updatedAt": "2024-06-03T15:54:09.911Z"
+              }
+            },
+            {
+              "id": 29,
+              "attributes": {
+                "name": "1 (6).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1 (6).jpg",
+                    "hash": "thumbnail_1_6_890586d048",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.01,
+                    "sizeInBytes": 3011,
+                    "url": "/uploads/thumbnail_1_6_890586d048.jpg"
+                  },
+                  "small": {
+                    "name": "small_1 (6).jpg",
+                    "hash": "small_1_6_890586d048",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 16.44,
+                    "sizeInBytes": 16437,
+                    "url": "/uploads/small_1_6_890586d048.jpg"
+                  }
+                },
+                "hash": "1_6_890586d048",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 25.62,
+                "url": "/uploads/1_6_890586d048.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T15:54:09.962Z",
+                "updatedAt": "2024-06-03T15:54:09.962Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 23,
+      "attributes": {
+        "productTitle": "Jacket",
+        "productPrice": 250,
+        "productDescription": "Heavy grey jacket.",
+        "productRating": 4.5,
+        "productCategory": "men",
+        "createdAt": "2024-06-03T17:06:29.635Z",
+        "updatedAt": "2024-06-03T17:06:32.369Z",
+        "publishedAt": "2024-06-03T17:06:32.364Z",
+        "ageCategory": "Adult",
+        "productID": "21",
+        "productimg": {
+          "data": [
+            {
+              "id": 30,
+              "attributes": {
+                "name": "1 (8).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1 (8).jpg",
+                    "hash": "thumbnail_1_8_f2080c5c68",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 4.9,
+                    "sizeInBytes": 4899,
+                    "url": "/uploads/thumbnail_1_8_f2080c5c68.jpg"
+                  },
+                  "small": {
+                    "name": "small_1 (8).jpg",
+                    "hash": "small_1_8_f2080c5c68",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 30.2,
+                    "sizeInBytes": 30195,
+                    "url": "/uploads/small_1_8_f2080c5c68.jpg"
+                  }
+                },
+                "hash": "1_8_f2080c5c68",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 47.9,
+                "url": "/uploads/1_8_f2080c5c68.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:05:44.496Z",
+                "updatedAt": "2024-06-03T17:05:44.496Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 25,
+      "attributes": {
+        "productTitle": "Puffer jacket",
+        "productPrice": 129.99,
+        "productDescription": "Black puffer jacket.",
+        "productRating": 3.5,
+        "productCategory": "men",
+        "createdAt": "2024-06-03T17:15:40.674Z",
+        "updatedAt": "2024-06-03T17:21:21.185Z",
+        "publishedAt": "2024-06-03T17:15:41.616Z",
+        "ageCategory": "Adult",
+        "productID": "23",
+        "productimg": {
+          "data": [
+            {
+              "id": 32,
+              "attributes": {
+                "name": "1 (10).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1 (10).jpg",
+                    "hash": "thumbnail_1_10_2988d1141c",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 4.79,
+                    "sizeInBytes": 4787,
+                    "url": "/uploads/thumbnail_1_10_2988d1141c.jpg"
+                  },
+                  "small": {
+                    "name": "small_1 (10).jpg",
+                    "hash": "small_1_10_2988d1141c",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 26.19,
+                    "sizeInBytes": 26186,
+                    "url": "/uploads/small_1_10_2988d1141c.jpg"
+                  }
+                },
+                "hash": "1_10_2988d1141c",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 40.15,
+                "url": "/uploads/1_10_2988d1141c.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:14:52.038Z",
+                "updatedAt": "2024-06-03T17:14:52.038Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 26,
+      "attributes": {
+        "productTitle": "Dress",
+        "productPrice": 149.99,
+        "productDescription": "Jeans dress.",
+        "productRating": 2.5,
+        "productCategory": "women",
+        "createdAt": "2024-06-03T17:17:00.364Z",
+        "updatedAt": "2024-06-03T17:22:03.856Z",
+        "publishedAt": "2024-06-03T17:17:02.036Z",
+        "ageCategory": "Adult",
+        "productID": "24",
+        "productimg": {
+          "data": [
+            {
+              "id": 34,
+              "attributes": {
+                "name": "1 (15).JPG",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 727,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1 (15).JPG",
+                    "hash": "thumbnail_1_15_9367064854",
+                    "ext": ".JPG",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 146,
+                    "height": 156,
+                    "size": 3.07,
+                    "sizeInBytes": 3067,
+                    "url": "/uploads/thumbnail_1_15_9367064854.JPG"
+                  },
+                  "small": {
+                    "name": "small_1 (15).JPG",
+                    "hash": "small_1_15_9367064854",
+                    "ext": ".JPG",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 468,
+                    "height": 500,
+                    "size": 21.72,
+                    "sizeInBytes": 21716,
+                    "url": "/uploads/small_1_15_9367064854.JPG"
+                  }
+                },
+                "hash": "1_15_9367064854",
+                "ext": ".JPG",
+                "mime": "image/jpeg",
+                "size": 44.47,
+                "url": "/uploads/1_15_9367064854.JPG",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:16:25.817Z",
+                "updatedAt": "2024-06-03T17:16:25.817Z"
+              }
+            },
+            {
+              "id": 33,
+              "attributes": {
+                "name": "2 (2).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_2 (2).jpg",
+                    "hash": "thumbnail_2_2_993ab43139",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.44,
+                    "sizeInBytes": 3438,
+                    "url": "/uploads/thumbnail_2_2_993ab43139.jpg"
+                  },
+                  "small": {
+                    "name": "small_2 (2).jpg",
+                    "hash": "small_2_2_993ab43139",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 25.23,
+                    "sizeInBytes": 25232,
+                    "url": "/uploads/small_2_2_993ab43139.jpg"
+                  }
+                },
+                "hash": "2_2_993ab43139",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 45.87,
+                "url": "/uploads/2_2_993ab43139.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:16:25.805Z",
+                "updatedAt": "2024-06-03T17:16:25.805Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 27,
+      "attributes": {
+        "productTitle": "Black dress",
+        "productPrice": 210,
+        "productDescription": "Black long dress.",
+        "productRating": 3.5,
+        "productCategory": "women",
+        "createdAt": "2024-06-03T17:18:16.549Z",
+        "updatedAt": "2024-06-06T14:34:52.741Z",
+        "publishedAt": "2024-06-03T17:18:17.271Z",
+        "ageCategory": "Adult",
+        "productID": "25",
+        "productimg": {
+          "data": [
+            {
+              "id": 35,
+              "attributes": {
+                "name": "1 (20).png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1 (20).png",
+                    "hash": "thumbnail_1_20_e2defdfc3d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 2.99,
+                    "sizeInBytes": 2990,
+                    "url": "/uploads/thumbnail_1_20_e2defdfc3d.png"
+                  },
+                  "small": {
+                    "name": "small_1 (20).png",
+                    "hash": "small_1_20_e2defdfc3d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 13.92,
+                    "sizeInBytes": 13923,
+                    "url": "/uploads/small_1_20_e2defdfc3d.png"
+                  }
+                },
+                "hash": "1_20_e2defdfc3d",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 21.96,
+                "url": "/uploads/1_20_e2defdfc3d.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:17:38.008Z",
+                "updatedAt": "2024-06-03T17:17:38.008Z"
+              }
+            },
+            {
+              "id": 36,
+              "attributes": {
+                "name": "2 (1).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_2 (1).jpg",
+                    "hash": "thumbnail_2_1_4911adc909",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 2.71,
+                    "sizeInBytes": 2710,
+                    "url": "/uploads/thumbnail_2_1_4911adc909.jpg"
+                  },
+                  "small": {
+                    "name": "small_2 (1).jpg",
+                    "hash": "small_2_1_4911adc909",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 13.22,
+                    "sizeInBytes": 13220,
+                    "url": "/uploads/small_2_1_4911adc909.jpg"
+                  }
+                },
+                "hash": "2_1_4911adc909",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 20.61,
+                "url": "/uploads/2_1_4911adc909.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:17:38.206Z",
+                "updatedAt": "2024-06-03T17:17:38.206Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 28,
+      "attributes": {
+        "productTitle": "Eagle T-shirt",
+        "productPrice": 39.99,
+        "productDescription": "Red eagle t-shirt.",
+        "productRating": 4.5,
+        "productCategory": "men",
+        "createdAt": "2024-06-03T17:21:02.477Z",
+        "updatedAt": "2024-06-03T17:21:05.211Z",
+        "publishedAt": "2024-06-03T17:21:05.202Z",
+        "ageCategory": "Adult",
+        "productID": "26",
+        "productimg": {
+          "data": [
+            {
+              "id": 37,
+              "attributes": {
+                "name": "1.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1.jpg",
+                    "hash": "thumbnail_1_e242f0d56a",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 2.49,
+                    "sizeInBytes": 2493,
+                    "url": "/uploads/thumbnail_1_e242f0d56a.jpg"
+                  },
+                  "small": {
+                    "name": "small_1.jpg",
+                    "hash": "small_1_e242f0d56a",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 11.04,
+                    "sizeInBytes": 11036,
+                    "url": "/uploads/small_1_e242f0d56a.jpg"
+                  }
+                },
+                "hash": "1_e242f0d56a",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 16.87,
+                "url": "/uploads/1_e242f0d56a.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:19:02.556Z",
+                "updatedAt": "2024-06-03T17:19:02.556Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 29,
+      "attributes": {
+        "productTitle": "Short dress",
+        "productPrice": 79.99,
+        "productDescription": "Short orange dress.",
+        "productRating": 2.5,
+        "productCategory": "women",
+        "createdAt": "2024-06-03T17:24:02.710Z",
+        "updatedAt": "2024-06-03T17:40:53.438Z",
+        "publishedAt": "2024-06-03T17:24:03.542Z",
+        "ageCategory": "YoungAdult",
+        "productID": "27",
+        "productimg": {
+          "data": [
+            {
+              "id": 38,
+              "attributes": {
+                "name": "1 (14).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_1 (14).jpg",
+                    "hash": "thumbnail_1_14_e3bf0d4324",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.09,
+                    "sizeInBytes": 3093,
+                    "url": "/uploads/thumbnail_1_14_e3bf0d4324.jpg"
+                  },
+                  "small": {
+                    "name": "small_1 (14).jpg",
+                    "hash": "small_1_14_e3bf0d4324",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 17.68,
+                    "sizeInBytes": 17685,
+                    "url": "/uploads/small_1_14_e3bf0d4324.jpg"
+                  }
+                },
+                "hash": "1_14_e3bf0d4324",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 29.33,
+                "url": "/uploads/1_14_e3bf0d4324.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:22:56.703Z",
+                "updatedAt": "2024-06-03T17:22:56.703Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 30,
+      "attributes": {
+        "productTitle": "long dress",
+        "productPrice": 189.99,
+        "productDescription": "long dress for women.",
+        "productRating": 3,
+        "productCategory": "women",
+        "createdAt": "2024-06-03T17:26:13.986Z",
+        "updatedAt": "2024-06-03T17:26:21.098Z",
+        "publishedAt": "2024-06-03T17:26:21.089Z",
+        "ageCategory": "Adult",
+        "productID": "28",
+        "productimg": {
+          "data": [
+            {
+              "id": 39,
+              "attributes": {
+                "name": "3 (2).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "small": {
+                    "name": "small_3 (2).jpg",
+                    "hash": "small_3_2_d48531b747",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 22.44,
+                    "sizeInBytes": 22444,
+                    "url": "/uploads/small_3_2_d48531b747.jpg"
+                  },
+                  "thumbnail": {
+                    "name": "thumbnail_3 (2).jpg",
+                    "hash": "thumbnail_3_2_d48531b747",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.61,
+                    "sizeInBytes": 3605,
+                    "url": "/uploads/thumbnail_3_2_d48531b747.jpg"
+                  }
+                },
+                "hash": "3_2_d48531b747",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 36.41,
+                "url": "/uploads/3_2_d48531b747.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:25:24.370Z",
+                "updatedAt": "2024-06-03T17:25:24.370Z"
+              }
+            },
+            {
+              "id": 40,
+              "attributes": {
+                "name": "2 (5).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_2 (5).jpg",
+                    "hash": "thumbnail_2_5_3b2094dc7b",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.9,
+                    "sizeInBytes": 3895,
+                    "url": "/uploads/thumbnail_2_5_3b2094dc7b.jpg"
+                  },
+                  "small": {
+                    "name": "small_2 (5).jpg",
+                    "hash": "small_2_5_3b2094dc7b",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 23.77,
+                    "sizeInBytes": 23765,
+                    "url": "/uploads/small_2_5_3b2094dc7b.jpg"
+                  }
+                },
+                "hash": "2_5_3b2094dc7b",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 39.46,
+                "url": "/uploads/2_5_3b2094dc7b.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:25:24.436Z",
+                "updatedAt": "2024-06-03T17:25:24.436Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 31,
+      "attributes": {
+        "productTitle": "long dress",
+        "productPrice": 199.99,
+        "productDescription": "White long dress.",
+        "productRating": 3.5,
+        "productCategory": "women",
+        "createdAt": "2024-06-03T17:26:55.107Z",
+        "updatedAt": "2024-06-03T18:26:28.577Z",
+        "publishedAt": "2024-06-03T18:26:28.568Z",
+        "ageCategory": "Adult",
+        "productID": "29",
+        "productimg": {
+          "data": [
+            {
+              "id": 42,
+              "attributes": {
+                "name": "4 (2).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "small": {
+                    "name": "small_4 (2).jpg",
+                    "hash": "small_4_2_d59ebaf23c",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 19.22,
+                    "sizeInBytes": 19219,
+                    "url": "/uploads/small_4_2_d59ebaf23c.jpg"
+                  },
+                  "thumbnail": {
+                    "name": "thumbnail_4 (2).jpg",
+                    "hash": "thumbnail_4_2_d59ebaf23c",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.06,
+                    "sizeInBytes": 3061,
+                    "url": "/uploads/thumbnail_4_2_d59ebaf23c.jpg"
+                  }
+                },
+                "hash": "4_2_d59ebaf23c",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 31.37,
+                "url": "/uploads/4_2_d59ebaf23c.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:26:46.796Z",
+                "updatedAt": "2024-06-03T17:26:46.796Z"
+              }
+            },
+            {
+              "id": 41,
+              "attributes": {
+                "name": "2 (8).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 680,
+                "height": 680,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_2 (8).jpg",
+                    "hash": "thumbnail_2_8_738168e5d0",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 156,
+                    "height": 156,
+                    "size": 3.03,
+                    "sizeInBytes": 3032,
+                    "url": "/uploads/thumbnail_2_8_738168e5d0.jpg"
+                  },
+                  "small": {
+                    "name": "small_2 (8).jpg",
+                    "hash": "small_2_8_738168e5d0",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 500,
+                    "size": 18.67,
+                    "sizeInBytes": 18669,
+                    "url": "/uploads/small_2_8_738168e5d0.jpg"
+                  }
+                },
+                "hash": "2_8_738168e5d0",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 30.13,
+                "url": "/uploads/2_8_738168e5d0.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-03T17:26:46.774Z",
+                "updatedAt": "2024-06-03T17:26:46.774Z"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 3,
+      "total": 60
+    }
+  }
+}
